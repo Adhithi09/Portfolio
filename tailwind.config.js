@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         mont : ['Montserrat','sans-serif'],
         sacrack : ['Sacramento','cursive'],
+      },
+      backgroundImage: {
+        'aqi': "url('assets/AQI.jpg')",
       }
     },
   },
